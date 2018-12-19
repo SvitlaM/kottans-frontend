@@ -5,3 +5,11 @@ Git - це не так страшно, як здавалося мені післ
 Наполегливість - наше все.
 GitHub в свою чергу дасть змогу ділитися своїм першим (поки дуже недолугим) кодом з іншими.Звичайно зручно, що можна мати доступ до свого коду з будь-якого девайсу, де є інтернет.І коли декілька людей можуть працювати над одним і тим же ж кодом, аналізувати зміни.
 Надіюся, що буду користуватися GitHub активно :) 
+
+## Linux CLI, and HTTP
+![.](https://github.com/SvitlaM/kottans-frontend/blob/master/task_linux_cli/screenshot.png)
+![.](https://github.com/SvitlaM/kottans-frontend/blob/master/task_linux_cli/screenshot1.png)
+
+I'll try to write impressions about tasks in English.
+First of all I read two articles about HTTP protocol. It was really interesting to know more about it and finally to understand how it really works. I read articles in english, then in ukrainian and find some video about protocol on youtube. It was really useful.
+Then I started cource "Learn the Command Line" at codecacademy. It was hard to concenrate on the course because I saw the progress of other students( their messeges on Telegram) but I finished it. I've never worked with Linux before so it was great experience. Hope it helps me in my future progress.
