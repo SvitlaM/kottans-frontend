@@ -13,3 +13,14 @@ GitHub в свою чергу дасть змогу ділитися своїм 
 I'll try to write impressions about tasks in English.
 First of all I read two articles about HTTP protocol. It was really interesting to know more about it and finally to understand how it really works. I read articles in english, then in ukrainian and find some video about protocol on youtube. It was really useful.
 Then I started cource "Learn the Command Line" at codecacademy. It was hard to concenrate on the course because I saw the progress of other students( their messeges on Telegram) but I finished it. I've never worked with Linux before so it was great experience. Hope it helps me in my future progress.
+
+## Git Collaboration
+
+![.](https://github.com/SvitlaM/kottans-frontend/blob/master/task_git_collaboration/Screenshot_1.png)
+![.](https://github.com/SvitlaM/kottans-frontend/blob/master/task_git_collaboration/Screenshot_2.png)     
+
+All info about Version Control was totally new for me!
+It was not easy to figure out what is it.
+Terminology in English made my understanding of lessons more complicated.
+After these two courses I can not say that everything is absolutely clear for me.
+But I know that I should practice more and more.
